@@ -1,9 +1,8 @@
-Adipisicing fugiat exercitation exercitation sunt. Sit voluptate qui labore incididunt esse officia dolore do dolore commodo eiusmod commodo. Sunt nostrud deserunt reprehenderit Lorem eu amet ipsum culpa velit ad nostrud incididunt exercitation ut officia. Cupidatat voluptate nostrud commodo aliquip dolor ad cillum ut labore incididunt consequat laboris.
-
-# How to Use
-
-Use the button below to start (and pause) the audio narration of the chart. You can also explore the chart yourself by selecting any visible items and moving along step by step.
+Das Thema "Fremde" und damit verbunden auch der "Vertrautheit" wird aus verschiedenen Perspektiven mit einer Mischung aus Objektivität, Subjektivität, Naivität und Sarkasmus vollkommen unvollständig reflektiert. Eigene Empfindungen und Gehirnbenutzung sind ausdrücklich erwünscht. Auf Reisen gehen auch.
+# Anleitung
+Erkunden Sie das Diagram selbst, indem Sie die sichtbaren Elemente auswählen und Schritt für Schritt weitergehen. Denken Sie sich Ihren Teil!
+Um die Audio-Erzählung des Charts zu starten (oder pausieren) klicken Sie auf den Button unten.
 
 # Credits
 
-This demo project was created at [Urban Complexity Lab](https://uclab.fh-potsdam.de/) as a placeholder example for the customizable flowchart template linked to below.
+Dieses Projekt wurde von Mareike Focken auf Basis des anpassbaren FlowChart Templates des [Urban Complexity Lab](https://uclab.fh-potsdam.de/) erstellt.
