@@ -14,12 +14,17 @@ Ich entschied mich für ein Farb- und Formenschema, erstellte mit Figma Komponen
 [<img src="https://mafo3186.github.io/wir-sollten-viel-mehr-reisen/flowchart.svg" alt="Preview of the flowchart template" width="540" />](https://mafo3186.github.io/wir-sollten-viel-mehr-reisen/flowchart.svg)
 
 ## Erzählung
-Der skizzierte innere Dialog existiert auch in Textform und als Tonspur. Die Tonspur könnte in besserer Tonqualität aufgenommen und außerdem in das interaktive Flowchart implementiert werden, um die Textstellen mit den passenden Flowchart-Stellen zu verknüpfen.
+Der skizzierte innere Dialog ist die Tonspur zum Flowchart. Aufgenommen wurde er mit dem Smartphone (Samsung Galaxy S20FE) und einer Diktiergerät-App, geschnitten, rudimentär bearbeitet und exportiert mit Audacity.
 
 ## Beschreibung
 Ausgangspunkt ist das Thema „Fremde überall“. In einem inneren Dialog kann man verschiedenen Fragen oder Themen folgen: Was bedeutet Fremde, wer oder was ist mir fremd, welche Gefühle löst Fremde aus, womit wird es assoziiert, und wo ist „überall“. Die Themen sind teilweise sachlich und recherchiert, teilweise sarkastisch oder ernst, manchmal naiv und manchmal auch satirisch. Durch alle Wege hin-durch lande ich immer wieder – mal mehr und mal weniger ernst gemeint - bei einer zentralen Erkenntnis: Wir sollte viel mehr reisen! Dort kann man Fremdes entdecken und sich vertraut machen. So führt mein Szenario immer wieder zum Thema „Vertrautes“ als Antagonist des „Fremden“. Zum „Vertrauten“ kann man die gleichen Fragen stellen wie zur Fremde, mit teilweise verschiedenen und dann doch erstaunlich ähnlichen Antworten. Denn Vertrautes ist auch etwas, das häufig zu dem Wunsch nach Änderung führt: Wir sollten viel mehr reisen!
 
 Eigene Empfindungen und Gehirnbenutzung sind ausdrücklich erwünscht. Auf Reisen gehen auch.
+
+## Technologien
+- Konzeption und Bearbeitung: Figma, Miro, OneNote, Adobe Illustrator, Color-Palette-Generator
+- Interaktivität: Flowchart Template Release
+- Ton: Smartphone mit Diktiergerät-App, Audacity
 
 ## Literatur
 - Flusser, V. Exil und Kreativität (1984/1985). Von der Freiheit des Migranten. Einsprüche gegen den Nationalismus, 103-109.
